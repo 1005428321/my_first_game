@@ -1,0 +1,41 @@
+{
+  "ver": "2.3.0",
+  "uuid": "13a0546a-75e5-4fb6-a043-b9629f7bb1c7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {
+    "android": {
+      "formats": [
+        {
+          "name": "png",
+          "quality": 30
+        }
+      ]
+    }
+  },
+  "subMetas": {
+    "WechatIMG2": {
+      "ver": "1.0.3",
+      "uuid": "ab4dd4e6-1c6a-4470-886d-7033e7219512",
+      "rawTextureUuid": "13a0546a-75e5-4fb6-a043-b9629f7bb1c7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 4032,
+      "height": 3016,
+      "rawWidth": 4032,
+      "rawHeight": 3016,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

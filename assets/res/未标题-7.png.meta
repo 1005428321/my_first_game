@@ -1,0 +1,41 @@
+{
+  "ver": "2.3.0",
+  "uuid": "3f2cee83-f92b-4348-b45f-171a03ca81d4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {
+    "android": {
+      "formats": [
+        {
+          "name": "png",
+          "quality": 80
+        }
+      ]
+    }
+  },
+  "subMetas": {
+    "未标题-7": {
+      "ver": "1.0.3",
+      "uuid": "a983a849-a509-404b-b604-d2f3e46c2b7d",
+      "rawTextureUuid": "3f2cee83-f92b-4348-b45f-171a03ca81d4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -6,
+      "offsetY": -2,
+      "trimX": 2,
+      "trimY": 21,
+      "width": 84,
+      "height": 62,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
